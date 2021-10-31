@@ -3,9 +3,9 @@ Arduino-KalmanFilter
 
 Based on https://github.com/simondlevy/TinyEKF
 
-This is a matrix version of Kalman Filter for Arduino.
+This is a matrix version of Kalman Filter for Arduino. This can be applied for Arduino, ESP8266/ESP32/MCUs
 
-https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/Kalman-filter-equations-and-instruction.png
+![alt text](https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/Kalman-filter-equations-and-instruction.png)
 
 n: number of states
 
@@ -75,6 +75,6 @@ An example when n=4, m=2
   
   xc[3] = 0.01f;
 
-https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/kalman1.png
 
+![alt text](https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/kalman1.png)
 
