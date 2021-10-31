@@ -5,6 +5,8 @@ Based on https://github.com/simondlevy/TinyEKF
 
 This is a matrix version of Kalman Filter for Arduino.
 
+https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/Kalman-filter-equations-and-instruction.png
+
 n: number of states
 
 m: number of measurement values
@@ -72,5 +74,7 @@ An example when n=4, m=2
   xc[2] = 0.01f;
   
   xc[3] = 0.01f;
+
+https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/kalman1.png
 
 
