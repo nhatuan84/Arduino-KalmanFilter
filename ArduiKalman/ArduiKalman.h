@@ -1,7 +1,7 @@
 #ifndef __KALMAN_H__
 #define __KALMAN_H__
 
-class KalmanFilter
+class KalmanFilter 
 {
 public:
   float* A;

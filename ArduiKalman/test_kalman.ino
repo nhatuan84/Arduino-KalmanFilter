@@ -2,7 +2,7 @@
 
 #define ADC_PIN 34
 #define UPDATE_TIME  100
-long current;
+long current; 
 
 int stateNum = 1;
 int measureNum = 1;
