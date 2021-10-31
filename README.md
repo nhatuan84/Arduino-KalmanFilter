@@ -3,7 +3,15 @@ Arduino-KalmanFilter
 
 Based on https://github.com/simondlevy/TinyEKF
 
-This is a matrix version of Kalman Filter for Arduino. This can be applied for Arduino, ESP8266/ESP32/MCUs
+This is a matrix version of Kalman Filter for Arduino. 
+
+This can be applied for Arduino, ESP8266/ESP32/MCUs.
+
+There are 3 files that you need to include in your project (ESP8266/ESP32/MCUs): 
+
+- ArduiKalman.cpp
+- ArduiKalman.h
+- mat.h
 
 ![alt text](https://github.com/nhatuan84/Arduino-KalmanFilter/blob/main/Kalman-filter-equations-and-instruction.png)
 
