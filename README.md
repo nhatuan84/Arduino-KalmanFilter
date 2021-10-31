@@ -7,6 +7,8 @@ This is a matrix version of Kalman Filter for ESP8266/ESP32/MCUs.
 
 It can be applied to Arduino, ESP8266/ESP32/MCUs.
 
+Example for ESP32: https://www.iotsharing.com/2019/06/how-to-apply-kalman-filter-to-esp.html
+
 There are 3 files that you need to include in your project (ESP8266/ESP32/MCUs): 
 
 - ArduiKalman.cpp
